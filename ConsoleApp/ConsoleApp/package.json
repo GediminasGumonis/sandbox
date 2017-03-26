@@ -1,0 +1,17 @@
+{
+  "name": "console-app",
+  "version": "0.0.0",
+  "description": "ConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "HOME"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "node-linq": "0.0.5"
+  },
+  "scripts": {
+    "test": "mocha lib/**/**.spec.js"
+  }
+}

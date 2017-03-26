@@ -1,0 +1,4 @@
+c:\users\home\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.njsprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2017\Projects\ConsoleApp\ConsoleApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\HOME\Source\Repos\sandbox\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.njsprojResolveAssemblyReference.cache
+C:\Users\HOME\Source\Repos\sandbox\ConsoleApp\ConsoleApp\bin\Microsoft.NodejsTools.WebRole.dll
